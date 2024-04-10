@@ -9,3 +9,5 @@
 - Mt. Kilimanjaro
 
 [My Math Home Page](https://teitelbaum.math.uconn.edu)
+
+![An Image](
