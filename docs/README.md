@@ -8,4 +8,4 @@
 - Mt. Elbert
 - Mt. Kilimanjaro
 
-$$\int_{0}^{\infty} f(x) dx$$
+[My Math Home Page](https://teitelbaum.math.uconn.edu)
