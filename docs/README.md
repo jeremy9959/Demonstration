@@ -10,4 +10,4 @@
 
 [My Math Home Page](https://teitelbaum.math.uconn.edu)
 
-![An Image](
+![An Image](./Dec-10%4021.25.46.png)
