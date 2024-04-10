@@ -1,3 +1,10 @@
+<script type="text/javascript"
+	src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML,
+	/javascripts/MathJaxLocal.js
+">
+</script>
+
+
 # Jeremy Teitelbaum Demo Page
 
 ## Courses Taught
@@ -18,3 +25,4 @@ def fib(n):
     return 1
 ```
 
+$$f(x)=x^2$$
