@@ -8,4 +8,4 @@
 - Mt. Elbert
 - Mt. Kilimanjaro
 
-$$\int_{0}^{\infty} f(x)\,dx$$
+$$\int_{0}^{\infty} f(x)\, dx$$
